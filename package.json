@@ -17,7 +17,7 @@
     "@rehooks/local-storage": "^2.4.0",
     "@rehooks/network-status": "^1.0.0",
     "@rehooks/online-status": "^1.1.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "react-script-hook": "^1.1.1",
     "react-speech-kit": "^3.0.0",
     "react-use-idb": "^1.0.2",
